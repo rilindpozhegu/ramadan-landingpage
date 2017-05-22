@@ -1,0 +1,15 @@
+/\-----------------/\
+	   Read Me!
+\/-----------------\/
+
+This Template Include,
+
+- Galery, Lightbox (all Elements + style)
+- Fixed Navigationbar + Responsive, Fixed
+- OWL Caroucel 2.0 + Js Modification, need the HTML and CSS3 code here! (copy from Somewhere) JS./
+- Bootstrap Librarie All-in
+- Font-Awesome, Added.!
+- Animation.css + Wow Scripts.
+- Smooth Scroll JS Edit.
+- Preloader JS Edit, Need the HTML and CSS to fix it.! 
+- Noumber Counter,
