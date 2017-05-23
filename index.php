@@ -9,6 +9,9 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+        <!-- Tab Logo -->
+    <link rel="icon" href="img/emirates-transparent-logo-01.png">
+
     <title>Emirates Graphic Ramadan Offer</title>
 
     <!-- Bootstrap Core CSS -->
