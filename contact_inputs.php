@@ -6,7 +6,10 @@
                     <option value="homepage">Homepage</option>
                     <option value="business_c">Business Card</option>
                   </select>
-                </div>  
+                </div> 
+                <div class="col-md-6  wow fadeInRight" data-wow-duration="0.5s" data-wow-delay="0.5s" class="yoururl_site">
+                  <input type="" name="" placeholder="Your Website Link:" class="your_url_site">
+                </div> 
                 <div class="clearfix"></div>             
                 <div class="col-md-6 wow fadeInRight" data-wow-duration="0.5s" data-wow-delay="0.35s">
                   <div class="group_inputs">      
